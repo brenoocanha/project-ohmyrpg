@@ -15,11 +15,11 @@ const config: Config = {
       },
     },
     colors: {
-      primaryRed: '#DD2D4A',
-      secondaryRed: '#880D1E',
-      lightRed: '#F26A8D',
-      neutralRed: '#F49CBB',
-      neutral: '#CBEEF3',
+      primary: '#F15025',
+      secondary: '#FFFFFF',
+      light: '#E6E8E6',
+      neutral: '#CED0CE',
+      dark: '#191919',
     }
   },
   plugins: [],
